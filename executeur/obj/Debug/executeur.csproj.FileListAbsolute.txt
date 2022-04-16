@@ -1,0 +1,10 @@
+C:\Users\sachu\source\repos\executeur\executeur\bin\Debug\executeur.exe.config
+C:\Users\sachu\source\repos\executeur\executeur\bin\Debug\executeur.exe
+C:\Users\sachu\source\repos\executeur\executeur\bin\Debug\executeur.pdb
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.hydre.resources
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.Properties.Resources.resources
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.csproj.GenerateResource.cache
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.csproj.CoreCompileInputs.cache
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.exe
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.pdb
+C:\Users\sachu\source\repos\executeur\executeur\obj\Debug\executeur.csproj.AssemblyReference.cache
